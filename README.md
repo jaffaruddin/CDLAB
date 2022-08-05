@@ -1,3 +1,3 @@
 # MLLab
 
-ANN Program have ERRORS!!
+Errors in ANN Program!!!
