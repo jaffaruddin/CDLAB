@@ -116,5 +116,12 @@ INPUT:
 Enter a string
 i+i$
 OUTPUT:
+ 
+(i/p String)
+i+i$, i+i$, i+i$, i+i$, +i$, +i$, +i$, i$, i$, i$, $, $
+(Stack Contents)
+$AT, $ABF, $ABi, $AB, $A, $AT+, $AT, $ABF, $ABi, $AB, $A, $
+(Production Used)
+TA, FB, i, i, #, +TA, +TA, FB, i, i, #, #
 
 */
